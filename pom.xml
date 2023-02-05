@@ -6,7 +6,7 @@
 
     <groupId>me.stefan923</groupId>
     <artifactId>PlayerDataStorage</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
     <description>Easily save(load) player data to(from) database.</description>
 
     <repositories>
