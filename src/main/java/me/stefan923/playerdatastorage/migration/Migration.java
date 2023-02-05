@@ -1,8 +1,6 @@
 package me.stefan923.playerdatastorage.migration;
 
 import me.stefan923.playerdatastorage.PlayerDataStorage;
-import me.stefan923.playerdatastorage.mysql.MySQLPlayerDataStorage;
-import me.stefan923.playerdatastorage.playerdata.NBTPlayerData;
 import me.stefan923.playerdatastorage.playerdata.PlayerData;
 import me.stefan923.playerdatastorage.util.LoggerUtil;
 import net.minecraft.server.v1_16_R3.NBTCompressedStreamTools;
